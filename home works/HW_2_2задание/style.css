@@ -1,0 +1,18 @@
+
+#big-block {
+    width: 1000px;
+    height: 500px;
+    position: relative;
+    background-color: rgb(31, 164, 209);
+    border-radius: 50%;
+    
+}
+
+#small-block {
+    margin-top: 200px;
+    width: 150px;
+    height: 100px;
+    position: absolute;
+    background-color: rgb(255, 166, 0);
+    border-radius: 50%;
+}
